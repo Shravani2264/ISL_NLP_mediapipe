@@ -1,0 +1,4 @@
+venvMI
+.env
+indic_nlp_resources/
+__pycache__/
